@@ -1,4 +1,4 @@
-name: CI
+name: Numan
 
 on: workflow_dispatch
 
